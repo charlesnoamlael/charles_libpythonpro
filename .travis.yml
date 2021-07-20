@@ -1,10 +1,11 @@
 language: python
 python:
-  3.7
-  3.9
+  -3.7
+  -3.9
 
 install:
-  pip install - requirements-dev.txt
-script: flake8
+  -pip install - requirements-dev.txt
+script:
+  flake8
 
 
