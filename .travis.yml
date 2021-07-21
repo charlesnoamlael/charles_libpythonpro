@@ -1,7 +1,19 @@
 language: python
+dist: xenial
+sudo: true
+
 python:
-  - 3.9
+  - 3.7.2
+  - 3.9.2
+
+env:
+  global:
+    - PIPENV_VENV_IN_PROJECT=1
+    - PIPENV_IGNORE_VIRTUALENVS=1
+
 install:
-  - pip install -q -r requirements-dev.txt
+  - pip install -r requirements-dev.txt
+  - pip install pipenv
+
 script:
   - flake8
