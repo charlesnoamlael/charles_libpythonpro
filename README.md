@@ -5,7 +5,6 @@ Link do Curso [python Pro](https://plataforma.dev.pro.br/)
 [![Updates](https://pyup.io/repos/github/charlesnoamlael/charles_libpythonpro/shield.svg)](https://pyup.io/repos/github/charlesnoamlael/charles_libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/charlesnoamlael/charles_libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/charlesnoamlael/charles_libpythonpro/)
 
-
 suportada a versão 3 de python
 
 para instalar:
