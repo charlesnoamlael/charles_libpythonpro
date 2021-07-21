@@ -13,7 +13,6 @@ env:
 
 install:
   - pip install -r requirements-dev.txt
-  - pip install pipenv
 
 script:
   - flake8
