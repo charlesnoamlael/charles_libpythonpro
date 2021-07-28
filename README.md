@@ -9,6 +9,7 @@ suportada a versão 3 de python
 
 para instalar:
 
+
 '''console
 python3 -n venv .venv
 source .venv/bin/activate
