@@ -8,6 +8,7 @@ Link do Curso [python Pro](https://plataforma.dev.pro.br/)
 suportada a versão 3 de python
 
 para instalar:
+
 '''console
 python3 -n venv .venv
 source .venv/bin/activate
