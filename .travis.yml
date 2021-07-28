@@ -4,11 +4,14 @@ sudo: true
 python:
   - 3.7.2
 env:
+
   global:
     - PIPENV_VENV_IN_PROJECT=1
     - PIPENV_IGNORE_VIRTUALENVS=1
+
 install:
   - pip install -q -r requirements-dev.txt
+
 script:
   - flake8
   - pytest libpythonpro
