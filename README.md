@@ -7,6 +7,7 @@ Link do Curso [python Pro](https://plataforma.dev.pro.br/)
 [![codecov](https://codecov.io/gh/charlesnoamlael/charles_libpythonpro/branch/charles_silva/graph/badge.svg?token=M95VIR4V6O)](https://codecov.io/gh/charlesnoamlael/charles_libpythonpro)
 suportada a versão 3 de python
 
+
 para instalar:
 
 '''console
